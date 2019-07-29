@@ -1,4 +1,4 @@
-# ReactRedux-Starter
+# React-Movie
 
 ##  Installation 
 
